@@ -25,7 +25,7 @@ In the WP-admin simply add posts to the Tour Custom Post Type and automatically 
 == Changelog ==
 
 = 1.0 =
-Plugin version approved for WordPress.org 
+* Plugin version approved for WordPress.org 
 
 = 0.0.1 =
 * Initial version of the plugin. (development)
