@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Tour
-Version: 0.0.1
+Version: 1.0
 Description: Create a WordPress Tour with handy dandy pop ups
 Author: Jurgen de Vries
 Author URI: http://www.jurgendevries.nl
